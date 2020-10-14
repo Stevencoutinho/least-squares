@@ -4,4 +4,4 @@
 
 >測定で得られた数値の組を、適当なモデルから想定される1次関数、対数曲線など特定の関数を用いて近似するときに、想定する関数が測定値に対してよい近似となるように、残差の二乗和を最小とするような係数を決定する方法、あるいはそのような方法によって近似を行うことである。
 
-参考url:[Qiita](https://qiita.com/Fortran/items/6ccb3596466b8bd0839a)
+参考url: [https://qiita.com/Fortran/items/6ccb3596466b8bd0839a](https://qiita.com/Fortran/items/6ccb3596466b8bd0839a)
